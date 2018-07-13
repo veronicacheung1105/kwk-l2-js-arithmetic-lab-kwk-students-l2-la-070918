@@ -10,7 +10,7 @@ You should NOT try to redefine any of the above variables.
 
 var newID = (1000000000 + oldID);
 
-var ageIsValid = Number.isInteger(53)
+var ageIsValid = Number.isInteger()
 
 
 Number.isInteger(42);
