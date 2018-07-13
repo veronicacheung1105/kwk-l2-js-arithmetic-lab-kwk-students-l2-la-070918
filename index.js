@@ -10,11 +10,12 @@ You should NOT try to redefine any of the above variables.
 
 var newID = (1000000000 + oldID);
 
-var ageIsValid = Number.isInteger()
+var ageIsValid = 
 
 
-var randomNumber = Math.floor(Math.random()*21) + 0
+var randomNumber = Math.max(1,2,3,4,5,6,7,8,9,10,11,12,13, 14, 15, 16, 17, 18, 19, 20)
 
+var randomNumber = Math.min(1,2,3,4,5,6,7,8,9,10,11,12,13, 14, 15, 16, 17, 18, 19, 20)
 Math.floor(Math.random()*10)+1;
 
 Number.isInteger(42);
