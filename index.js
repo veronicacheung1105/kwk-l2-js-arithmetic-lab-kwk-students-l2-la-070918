@@ -12,7 +12,7 @@ var newID = (1000000000 + oldID);
 
 var ageIsValid = Number.isInteger()
 
-
+var randomNumber = 
 Number.isInteger(42);
 //=> true
  
