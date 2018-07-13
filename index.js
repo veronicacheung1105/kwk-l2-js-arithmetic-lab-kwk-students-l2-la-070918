@@ -24,3 +24,4 @@ Number.isInteger(42);
 Number.isInteger(0.42);
 //=> false
 
+var randomInteger = Math.round(randomNumber)
