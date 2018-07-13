@@ -10,10 +10,13 @@ You should NOT try to redefine any of the above variables.
 
 var newID = (1000000000 + oldID);
 
-currentAge !== “Melany and Sofia”; 
--> false
-currentAge !== “Sofia and Melany”;
--> true
+var 
+function fits(x, y) {
+  if (Number.isInteger(y / x)) {
+    return 'Fits!';
+  }
+  return 'Does NOT fit!';
+}
 
 Number.isInteger(42);
 //=> true
