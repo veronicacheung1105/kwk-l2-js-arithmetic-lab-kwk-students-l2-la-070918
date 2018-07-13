@@ -25,3 +25,5 @@ Number.isInteger(0.42);
 //=> false
 
 var randomInteger = Math.round(randomNumber)
+
+var randomUserID = (randomInteger + 1000000000)
