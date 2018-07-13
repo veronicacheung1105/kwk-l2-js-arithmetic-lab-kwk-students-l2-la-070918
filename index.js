@@ -10,8 +10,8 @@ You should NOT try to redefine any of the above variables.
 
 var newID = (1000000000 + oldID);
 
-var ageIsValid = 
-function fits(x, y) {
+var ageIsValid = Math.round(currentAge)
+
 
 Number.isInteger(42);
 //=> true
