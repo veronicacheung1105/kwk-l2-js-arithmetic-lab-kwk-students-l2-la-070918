@@ -5,9 +5,11 @@ Variables defined in the test suite:
 
 You should NOT try to redefine any of the above variables.
 */
-var newID = (1000000000 + oldID);
 
 // Write your code below this line!
+
+var newID = (1000000000 + oldID);
+
 
 Number.isInteger(42);
 //=> true
